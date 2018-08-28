@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{43AF8F7F-50EE-448D-BB63-4B673738F3FD}</ProjectGuid>
-    <RootNamespace>Expensivecalculator2</RootNamespace>
+    <ProjectGuid>{132BF79C-E8AF-4CA6-A7DF-DF84EF459491}</ProjectGuid>
+    <RootNamespace>Cmadlibs</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
