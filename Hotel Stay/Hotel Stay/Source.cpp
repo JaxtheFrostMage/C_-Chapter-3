@@ -17,7 +17,9 @@ int main()
 	cin >> daysStayed;
 
 	totalBill = daysStayed * roomCharge + daysStayed * internetCharge;
+	cout << "*****************************************************************************************************************" << endl;
 	cout << "Thank you " << name << " for choosing us for your staying needs, your bill will be " << totalBill << " enjoy your stay for the next " << daysStayed << " days!" << endl;
+	cout << "*****************************************************************************************************************" << endl;
 	system("pause");
 	return 0;
 }
