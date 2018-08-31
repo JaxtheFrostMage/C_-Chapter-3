@@ -10,4 +10,6 @@ int main()
 	int temp1 =0;
 	int temp2 =0;
 	int temp3 =0;
+
+	cout << "What was the tempature at 8:00 am? "
 }
